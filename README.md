@@ -14,11 +14,11 @@
 [![Build](https://img.shields.io/badge/escrita%20via-ftp-red.svg)]()
 
 
-
+<img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/barra.png" width="100%"></img>
 
 <img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/logo_pyject.png" width="100%"></img>
 <h3>OQUE ESTE PROGRAMA FAZ:</h3>
-<p> Este programa foi programado em Python3 e gerado um executavel do mesmo assim permitindo o usuario criar e editar lojas diretamente no seu console PlayStation3 e tambem compactar sua loja em PKG para distribuir para outros usuarios com consoles previamente exploitados/desbloqueados.</p>
+Este programa foi programado em Python3 e gerado um executavel do mesmo assim permitindo o usuario criar e editar lojas diretamente no seu console PlayStation3 e tambem compactar sua loja em PKG para distribuir para outros usuarios com consoles previamente exploitados/desbloqueados.<br>
 - Escreve e cria lojas direteamente no console PlayStation3.<br>
 - Escreve e cria sistema de IPTV diretamente no console PlayStation3.<br>
 - Gera PKG para distribuição ou controle de versão.<br>
@@ -53,9 +53,9 @@
 - Crie um atalho para o programa "TCXS PYJECT FTP STORE CREATOR.exe" se preferir.<br>
 - Na tela de login do programa coloque o endereço IP do seu console PlayStation3.<br>
 - Após login siga instruções do terminal(cmd).<br><br>
-
+<img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/barra.png" width="100%"></img>
 <img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/tela_programa_para_git.jpg" width="100%"></img>
-
+<img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/barra.png" width="100%"></img>
 <h3>INSTRUÇÕES:</h3>
 1 - INSIRA O PKG DA LOJA DENTRO DA PASTA PKG.<br>
 2 - CLIQUE NO BOTAO COMPACTAR/DESCOMPACTAR PKG.<br>
@@ -68,9 +68,11 @@
 9 - CASO VA COLOCAR OUTRO LINK DIRETO IRA FUNCIONAR NORMALMENTE.<br>
 10 - EM CASO DE DUVIDA VEJA O TUTORIAL NO CANAL DO @GorpoOrko<br>
 ATENCAO: NAO FECHE ESTE O TERMINAL APENAS O MINIMIZE | TODOS DADOS DE RETORNO ESTARAO NESTA JANELA <br><br>
+<img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/barra.png" width="100%"></img>
 <h3>TUTORIAL:</h3>
 
 
 <img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/barra.png" width="100%"></img>
 <h3>CONTATO</h3>
 - Telegram: https://t.me/tcxsproject2 <br>
+<img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/barra.png" width="100%"></img>
