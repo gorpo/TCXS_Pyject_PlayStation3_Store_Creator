@@ -70,7 +70,7 @@ ATENCAO: NAO FECHE ESTE O TERMINAL APENAS O MINIMIZE | TODOS DADOS DE RETORNO ES
 <img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/barra.png" width="100%"></img>
 <h3>TUTORIAL:</h3>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=EQbymbu5htA" target="_blank"><img src="http://img.youtube.com/vi/EQbymbu5htA/0.jpg" 
-alt="ASSISTA NOSSO TUTORIAL NO YOUTUBE" width="240" height="180" border="10" /></a>
+alt="ASSISTA NOSSO TUTORIAL NO YOUTUBE" width="100%"  border="0" /></a>
 
 <img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/barra.png" width="100%"></img>
 <h3>CONTATO</h3>
