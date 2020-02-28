@@ -39,13 +39,13 @@
 - Sistema de login e senha.<br>
 - Limpeza de cache automatizada.<br>
 - Senha disponivel apenas para compradores.<br>
-
+<img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/barra.png" width="100%"></img>
 <h3>REQUISITOS</h3>
 - Console PlayStation3 exploitado com HEN ou CFW.<br>
 - Computador com sistema operacional Windows.<br>
 - Todos dispositivos ligados na mesma rede.<br>
 - Permissões de administrador para o programa executavel.<br>
-
+<img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/barra.png" width="100%"></img>
 <h3>COMO USAR:</h3>
 - Baixe os arquivos.<br>
 - Extraia os arquivos.<br>
@@ -71,6 +71,6 @@ ATENCAO: NAO FECHE ESTE O TERMINAL APENAS O MINIMIZE | TODOS DADOS DE RETORNO ES
 <h3>TUTORIAL:</h3>
 
 
-
+<img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/barra.png" width="100%"></img>
 <h3>CONTATO</h3>
 - Telegram: https://t.me/tcxsproject2 <br>
