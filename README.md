@@ -6,6 +6,9 @@
 [![Build](https://img.shields.io/badge/windows-7%208%2010-blue.svg)]()
 [![Build](https://img.shields.io/badge/dev-gorpo-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Plataforma-PlayStation3-blue.svg)]()
+[![Build](https://img.shields.io/badge/upload%20via-ftp-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/escrita%20via-ftp-brightgreen.svg)]()
+[![Build](https://img.shields.io/badge/gerador%20de%20pkg-true%20ancestor-success.svg)]()
 
 
 <img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/logo_pyject.png" width="100%"></img>
