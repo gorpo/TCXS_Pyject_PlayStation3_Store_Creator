@@ -15,7 +15,7 @@
 - Computador com sistema operacional Windows.<br>
 - Todos dispositivos ligados na mesma rede.<br>
 - Permissões de administrador para o programa executavel.<br>
-
+<img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/tela_programa_para_git.jpg" width="100%"></img>
 <h3>OQUE ESTE PROGRAMA FAZ:</h3>
 <p> Este programa foi programado em Python3 e gerado um executavel do mesmo assim permitindo o usuario criar e editar lojas diretamente no seu console PlayStation3 e tambem compactar sua loja em PKG para distribuir para outros usuarios com consoles previamente exploitados/desbloqueados.</p>
 - Cria jogos de PlayStation3 PSP com um link na loja.<br>
