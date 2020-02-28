@@ -69,7 +69,7 @@ Este programa foi programado em Python3 e gerado um executavel do mesmo assim pe
 ATENCAO: NAO FECHE ESTE O TERMINAL APENAS O MINIMIZE | TODOS DADOS DE RETORNO ESTARAO NESTA JANELA <br><br>
 <img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/barra.png" width="100%"></img>
 <h3>TUTORIAL:</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EQbymbu5htA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=EQbymbu5htA
 <img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/barra.png" width="100%"></img>
 <h3>CONTATO</h3>
 - Telegram: https://t.me/tcxsproject2 <br>
