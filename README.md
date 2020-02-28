@@ -15,6 +15,27 @@
 - Computador com sistema operacional Windows.<br>
 - Todos dispositivos ligados na mesma rede.<br>
 - Permissões de administrador para o programa executavel.<br><br>
+<h3>COMO USAR:</h3>
+- Baixe os arquivos.<br>
+- Extraia os arquivos.<br>
+- De permissões de administtrador para o arquivo "TCXS PYJECT FTP STORE CREATOR.exe".<br>
+- Crie um atalho para o programa "TCXS PYJECT FTP STORE CREATOR.exe" se preferir.<br>
+- Na tela de login do programa coloque o endereço IP do seu console PlayStation3.<br>
+- Após login siga instruções do terminal(cmd).<br><br>
+
+<h3>INSTRUÇÕES:</h3>
+1 - INSIRA O PKG DA LOJA DENTRO DA PASTA PKG.<br>
+2 - CLIQUE NO BOTAO COMPACTAR/DESCOMPACTAR PKG.<br>
+3 - USE A OPCAO NUMERO 3 NO TRUEANCESTOR REPACKER PARA DESCOMPACTAR A LOJA.<br>
+4 - CASO QUEIRA COMPACTAR A LOJA  USE A OPCAO NUMERO 1.<br>
+5 - APOS DESCOMPACTADA SUA LOJA ESTARA NA PASTA GAME.<br>
+6 - EDITE OS JOGOS NO PROGRAMA E INSIRA AS IMAGENS COMO PEDIDO NA PASTA DA LOJA.<br>
+7 - CASO VA EDITAR A TV ELA NAO PRECISA INSERIR IMAGENS.<br>
+8 - NAO MODIFIQUE OS LINKS DROPBOX QUANDO FOR INSERIR ELES NO PROGRAMA.<br>
+9 - CASO VA COLOCAR OUTRO LINK DIRETO IRA FUNCIONAR NORMALMENTE.<br>
+10 - EM CASO DE DUVIDA VEJA O TUTORIAL NO CANAL DO @GorpoOrko<br>
+ATENCAO: NAO FECHE ESTE O TERMINAL APENA O MINIMIZE | TODOS DADOS DE RETORNO ESTARAO NESTA JANELA <br><br>
+
 <img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/tela_programa_para_git.jpg" width="100%"></img>
 <h3>OQUE ESTE PROGRAMA FAZ:</h3>
 <p> Este programa foi programado em Python3 e gerado um executavel do mesmo assim permitindo o usuario criar e editar lojas diretamente no seu console PlayStation3 e tambem compactar sua loja em PKG para distribuir para outros usuarios com consoles previamente exploitados/desbloqueados.</p>
