@@ -5,7 +5,7 @@
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/python-v3.7-blue.svg)]()
 [![Build](https://img.shields.io/badge/windows-7%208%2010-blue.svg)]()
-[![Build](https://img.shields.io/badge/arquiterura-64bits-blue.svg)]()
+[![Build](https://img.shields.io/badge/arquiterura-64bits-blue.svg)]()<br>
 [![Build](https://img.shields.io/badge/Plataforma-PlayStation3-red.svg)]()
 [![Build](https://img.shields.io/badge/tipo%20de%20exploit-HEN-red.svg)]()
 [![Build](https://img.shields.io/badge/desbloqueio-CFW-red.svg)]()
