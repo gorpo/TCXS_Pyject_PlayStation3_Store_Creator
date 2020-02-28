@@ -14,7 +14,7 @@
 - Console PlayStation3 exploitado com HEN ou CFW.<br>
 - Computador com sistema operacional Windows.<br>
 - Todos dispositivos ligados na mesma rede.<br>
-- Permissões de administrador para o programa executavel.<br><br>
+- Permissões de administrador para o programa executavel.<br>
 <h3>COMO USAR:</h3>
 - Baixe os arquivos.<br>
 - Extraia os arquivos.<br>
@@ -33,8 +33,8 @@
 7 - CASO VA EDITAR A TV ELA NAO PRECISA INSERIR IMAGENS.<br>
 8 - NAO MODIFIQUE OS LINKS DROPBOX QUANDO FOR INSERIR ELES NO PROGRAMA.<br>
 9 - CASO VA COLOCAR OUTRO LINK DIRETO IRA FUNCIONAR NORMALMENTE.<br>
-10 - EM CASO DE DUVIDA VEJA O TUTORIAL NO CANAL DO @GorpoOrko<br><br>
-ATENCAO: NAO FECHE ESTE O TERMINAL APENA O MINIMIZE | TODOS DADOS DE RETORNO ESTARAO NESTA JANELA <br><br>
+10 - EM CASO DE DUVIDA VEJA O TUTORIAL NO CANAL DO @GorpoOrko<br>
+ATENCAO: NAO FECHE ESTE O TERMINAL APENAS O MINIMIZE | TODOS DADOS DE RETORNO ESTARAO NESTA JANELA <br><br>
 <h3>TUTORIAL:</h3>
 
 <h3>OQUE ESTE PROGRAMA FAZ:</h3>
