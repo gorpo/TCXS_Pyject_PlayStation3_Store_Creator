@@ -39,6 +39,9 @@ ATENCAO: NAO FECHE ESTE O TERMINAL APENAS O MINIMIZE | TODOS DADOS DE RETORNO ES
 
 <h3>OQUE ESTE PROGRAMA FAZ:</h3>
 <p> Este programa foi programado em Python3 e gerado um executavel do mesmo assim permitindo o usuario criar e editar lojas diretamente no seu console PlayStation3 e tambem compactar sua loja em PKG para distribuir para outros usuarios com consoles previamente exploitados/desbloqueados.</p>
+- Escreve e cria lojas direteamente no console PlayStation3.<br>
+- Escreve e cria sistema de IPTV diretamente no console PlayStation3.<br>
+- Gera PKG para distribuição ou controle de versão.<br>
 - Cria jogos de PlayStation3 PSP com um link na loja.<br>
 - Cria jogos de PlayStation3 PS1 com um link na loja.<br>
 - Cria jogos de PlayStation3 PS2 com um link na loja.<br>
