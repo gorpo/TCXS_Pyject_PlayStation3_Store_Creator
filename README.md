@@ -8,6 +8,6 @@
 [![Build](https://img.shields.io/badge/Plataforma-PlayStation3-blue.svg)]()
 
 
-<img src="https://raw.githubusercontent.com/gorpo/Manicomio-Boot-Theme/master/manicomio/boot.png" width="55%"></img>
+<img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/logo_pyject.png" width="100%"></img>
 
 Shell's Hacker PHP que se upadas em um servidor ou maquina te dão acesso total a mesma.
