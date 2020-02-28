@@ -1,8 +1,8 @@
-# TCXS_Pyject_PlayStation3_Store_Creator
-TCXS Pyject PlayStation3 FTP Store Creator.
+# TCXS Pyject PlayStation3 FTP Store Creator
+
 
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
-[![Build](https://img.shields.io/badge/Supported_OS-Linux-orange.svg)]()
+[![Build](https://img.shields.io/badge/python-v3.7-blue.svg)]()
 
 
 <img src="https://raw.githubusercontent.com/gorpo/Manicomio-Boot-Theme/master/manicomio/boot.png" width="55%"></img>
