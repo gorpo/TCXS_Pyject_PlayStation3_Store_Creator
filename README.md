@@ -50,7 +50,7 @@ Este programa foi programado em Python3 e gerado um executavel do mesmo assim pe
 - Extraia os arquivos.<br>
 - De permissões de administtrador para o arquivo "TCXS PYJECT FTP STORE CREATOR.exe".<br>
 - Crie um atalho para o programa "TCXS PYJECT FTP STORE CREATOR.exe" se preferir.<br>
-- Na tela de login do programa coloque o endereço IP do seu console PlayStation3.<br>
+- Na tela de login do programa coloque o endereço IP do seu console PlayStation3, qualquer nome de usuario e a senha 'manicomio' (sem aspas)<br>
 - Após login siga instruções do terminal(cmd).<br><br>
 <img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/barra.png" width="100%"></img>
 <img src="https://raw.githubusercontent.com/gorpo/TCXS_Pyject_PlayStation3_Store_Creator/master/img/tela_programa_para_git.jpg" width="100%"></img>
